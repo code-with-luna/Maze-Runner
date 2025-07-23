@@ -1,2 +1,30 @@
-# Maze-Runner
-Maze Runner is a console-based C++ game where the player moves through a maze from Start (S) to End (E) using W/A/S/D keys. Walls (X) block movement, and invalid moves are handled with messages. Created as a first-semester project to practice arrays, loops, and user input handling.
+ 🧩 Maze Runner — Console Game in C++
+
+A simple and fun console-based Maze Runner game built in C++ as a first semester project.
+
+In this game, the player must navigate from the **Start (S)** to the **End (E)** without hitting any walls (`X`). You can move using the **W/A/S/D keys**. If you reach the end, you win!
+
+---
+
+## 🎮 How to Play
+
+- Launch the program in any C++ IDE or terminal
+- Use these controls:
+  - `W` - Move Up
+  - `A` - Move Left
+  - `S` - Move Down
+  - `D` - Move Right
+  - `Q` - Quit the game
+- Avoid walls (`X`) and reach the `E` to win!
+
+---
+
+## 💻 Tech Used
+
+- **Language:** C++
+- **IDE:** Any (e.g. DevC++, Code::Blocks, VS Code, etc.)
+- **Platform:** Console
+
+---
+
+## 📌 Game Preview (Example Output)
