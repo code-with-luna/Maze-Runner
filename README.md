@@ -28,3 +28,54 @@ In this game, the player must navigate from the **Start (S)** to the **End (E)**
 ---
 
 ## 📌 Game Preview (Example Output)
+
+ . X . . . .
+. . . . X . X
+. . X X X . .
+X . . X . . .
+. X . X . X .
+. . . . X . .
+P X X X X X E
+
+yaml
+Copy
+Edit
+
+Use W/A/S/D to move the player `P` toward the end `E`!
+
+---
+
+## 🧠 Features
+
+- Clean console output
+- Collision detection with walls
+- Win/quit logic
+- Fun error messages when bumping into walls
+
+---
+
+## ✨ Author
+
+Made with 💜 by Luna 🌙  
+> *My first-ever programming project — built with curiosity and a whole lot of logic bugs at first!* 😊
+
+---
+
+## 🗃️ Project Status
+
+✅ Completed — but always open to improvements like:
+- Timer
+- Obstacles
+- Score tracking
+- Animated path
+
+---
+
+## 📥 How to Run
+
+1. Copy the code into any `.cpp` file
+2. Compile and run in a C++-supporting IDE
+3. Enjoy the challenge!
+
+---
+
